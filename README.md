@@ -27,6 +27,7 @@
 - HDMI works but has strange behavior
 - HDMI audio
 - ICloud accound
+- Microphone
 
 # I want to thank the guys at OpenCore and the different groups that have helped me carry out the work for the beautiful work :)
 
