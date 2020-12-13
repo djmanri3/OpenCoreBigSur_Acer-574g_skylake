@@ -9,7 +9,7 @@
 
 # Steps:
 
-- Format your USB to FAT32 and copy the files from this repo
+- Format your USB to FAT32 and copy the files from this repo (EFI folder)
 
 - Go to OpenCore-x.x.x.x-RELEASE \ Utilities \ macrecovery open cmd and paste the following command: 
 ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 -os latest download
