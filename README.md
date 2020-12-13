@@ -1,0 +1,1 @@
+# OpenCoreBigSur_Acer-574g_skylake
